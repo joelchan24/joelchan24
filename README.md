@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @joelchan24, I am Devops/Cloud Engineer ready to colaborate, Create and Learn new Thins :)
+- 👋 Hi, I’m @joelchan24, I am Devops/SRE ready to colaborate, Create and Learn new Thins :)
 - 👀 I’m interested in improve and lear new tecnologies
 
 Currently I work in daily basis on 
 
     - Azure
+    - Kubernetes
+    - Argo CD(Helm Chart)
     - Azure Devops
     - Terraform
     - Ansible
     - Hashicorp Vault
-    - Kubernetes 
-    - Bash and Python
+    - Bash, Powershell and Python
     - CI/CD pipelines
 
 
@@ -21,7 +22,7 @@ I am activer user on
   
   
 - My certifications 
-
+  - [Azure DevOps Expert](https://learn.microsoft.com/api/credentials/share/en-us/joelchan-3331/5EA3ACB33CBDB724?sharingId)
   - [Azure Administrator](https://www.credly.com/badges/8d583bb2-b97c-4bb2-ab9c-5e13502b4b63/linked_in_profile)
   - [Azure Fundamentals](https://www.credly.com/badges/6c2b6a9e-5cc4-4e62-9d30-2ab48c8bda15?source=linked_in_profile)
   - [Terraform](https://www.credly.com/badges/e566ba78-6011-4017-9f2e-489dbf7b5e85?source=linked_in_profile)
